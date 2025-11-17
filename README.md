@@ -48,7 +48,15 @@ Pick your model in the web UI or edit `chatbots/app.py`:
 **Tip:** Start with Orca Mini, switch models in the UI if you need better responses!
 
 ---
+## Screenshots
 
+### Web Chat Interface
+<img width="744" height="500" alt="image" src="https://github.com/user-attachments/assets/577c9f86-7ab2-4ef2-aaa5-ea223ca344f5" />
+
+### Terminal Interface
+<img width="744" height="311" alt="image" src="https://github.com/user-attachments/assets/65949349-0800-4a83-9436-737f4b8e9344" />
+
+---
 ## ❓ Common Issues
 
 **"Offline" status?**
